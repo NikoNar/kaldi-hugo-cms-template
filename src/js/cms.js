@@ -3,6 +3,7 @@ import CMS from "netlify-cms";
 
 import PostPreview from "./cms-preview-templates/post";
 import ProductsPreview from "./cms-preview-templates/products";
+import ArticlesPreview from "./cms-preview-templates/articles";
 
 
 // Example of creating a custom color widget
